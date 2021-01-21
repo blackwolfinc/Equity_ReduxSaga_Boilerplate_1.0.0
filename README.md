@@ -1,0 +1,1 @@
+# Equity_ReduxSaga_Boilerplate_1.0.0
